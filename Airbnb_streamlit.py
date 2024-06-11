@@ -402,29 +402,29 @@ if select == "About":
 
     st.subheader(":orange[1. Data Collection:]")
 
-    st.write('''***Gather data from Airbnb's public API or other available sources.
-        Collect information on listings, hosts, reviews, pricing, and location data.***''')
+    st.write('''Gather data from Airbnb's public API or other available sources.
+        Collect information on listings, hosts, reviews, pricing, and location data.''')
     
     st.subheader(":orange[2. Data Cleaning and Preprocessing:]")
 
-    st.write('''***Clean and preprocess the data to handle missing values, outliers, and ensure data quality.
-        Convert data types, handle duplicates, and standardize formats.***''')
+    st.write('''Clean and preprocess the data to handle missing values, outliers, and ensure data quality.
+        Convert data types, handle duplicates, and standardize formats.''')
     
     st.subheader(":orange[3. Exploratory Data Analysis (EDA):]")
 
-    st.write('''***Conduct exploratory data analysis to understand the distribution and patterns in the data.
-        Explore relationships between variables and identify potential insights.***''')
+    st.write('''Conduct exploratory data analysis to understand the distribution and patterns in the data.
+        Explore relationships between variables and identify potential insights.''')
     
     st.subheader(":orange[4. Visualization:]")
 
-    st.write('''***Create visualizations to represent key metrics and trends.
+    st.write('''Create visualizations to represent key metrics and trends.
         Use charts, graphs, and maps to convey information effectively.
-        Consider using tools like Matplotlib, Seaborn, or Plotly for visualizations.***''')
+        Consider using tools like Matplotlib, Seaborn, or Plotly for visualizations.''')
     
     st.subheader(":orange[5. Geospatial Analysis:]")
 
-    st.write('''***Utilize geospatial analysis to understand the geographical distribution of listings.
-        Map out popular areas, analyze neighborhood characteristics, and visualize pricing variations.***''')
+    st.write('''Utilize geospatial analysis to understand the geographical distribution of listings.
+        Map out popular areas, analyze neighborhood characteristics, and visualize pricing variations.''')
 
 
 
